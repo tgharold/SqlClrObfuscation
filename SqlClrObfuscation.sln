@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7F61F8E3-E9A5-49C6-A9FB-06D819D45843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlClrObfuscation", "src\SqlClrObfuscation\SqlClrObfuscation.csproj", "{EC47FF2A-D137-4A89-99FA-D1EAE3C83FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC47FF2A-D137-4A89-99FA-D1EAE3C83FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC47FF2A-D137-4A89-99FA-D1EAE3C83FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC47FF2A-D137-4A89-99FA-D1EAE3C83FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC47FF2A-D137-4A89-99FA-D1EAE3C83FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5DB2064-9DD0-4EA7-BEE9-6401E2DA480F}
+	EndGlobalSection
+EndGlobal
